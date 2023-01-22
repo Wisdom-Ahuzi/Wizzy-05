@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wisdom
 - 👀 I’m interested in HTML,CSS,Sass,JavaScript,React,Node and Express. 
-- 🌱 I’m currently learning React,Sass and Firebase.
+- 🌱 I’m currently learning React,Sass and Express.
 - 💞️ I’m looking to collaborate on Frontend Projects.
 - 📫 How to reach me WhatsApp: 09018838623, Twitter: https://twitter.com/ahuzi_wisdom.
 
